@@ -54,7 +54,7 @@ android {
         }
     }
     compileSdk = 32
-    buildToolsVersion = "32.0.0 rc1"
+    buildToolsVersion = "32.0.0"
     defaultConfig {
         applicationId = "onlymash.flexbooru.play"
         minSdk = 21
